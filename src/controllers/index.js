@@ -8,7 +8,7 @@ async index(req, res){
 
      //MYSQL
    // const users = await knex('cadastro')
-const user2 = await knex2('cadastro2')
+   const user2 = await knex2('cadastro2')
 
     //MONGODB
     //const usersMongo = await Users.find()       
