@@ -6,9 +6,11 @@ module.exports = {
 
 async index(req, res){
 
+     //Para ve os dados de cada banco, retire o comentario e coloque a variavel no res.json
+     
      //MYSQL
-   // const users = await knex('cadastro')
-   const user2 = await knex2('cadastro2')
+     // const users = await knex('cadastro')
+      const user2 = await knex2('cadastro2')
 
     //MONGODB
     //const usersMongo = await Users.find()       
