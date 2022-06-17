@@ -1,3 +1,3 @@
 # API-NODE
 
-multiplas conexoes com mongodb e duas bases de dados mysql
+api desenvolvida com nodejs que realiza multiplas conexoes com mongodb e duas bases de dados mysql
